@@ -1,6 +1,6 @@
 # DemoVideoCall #
 
-This is an android application demo video call.
+* This is an android application demo video call.
 
 # Demo #
 
