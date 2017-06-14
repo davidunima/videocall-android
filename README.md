@@ -12,7 +12,7 @@
 # Setup #
 * Clone this repo to your desktop to install all the dependencies.
 * You must register account [here](https://tokbox.com/), get api key [here](https://tokbox.com/account/#/), create new project to get session id and token id.
-<br />
+---
 # Usage #
 * After you clone this repo to your desktop, build application to android device and make video call.
 * This application required INTERNET_PERMISSION, CAMERA_PERMISSION
