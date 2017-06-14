@@ -16,3 +16,5 @@
 * After you clone this repo to your desktop, build application to android device and make video call.
 * This application required INTERNET_PERMISSION, CAMERA_PERMISSION
 # License #
+Copyright 2017 Unima Company, DemoVideoCall.
+All rights reserved.
