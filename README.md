@@ -4,7 +4,7 @@
 * * *
 # Demo #
 
-![device-2017-06-14-110034.png](https://bitbucket.org/repo/Lorj4ad/images/912122843-device-2017-06-14-110034.png)
+![device-2017-06-14-110034.png](https://user-images.githubusercontent.com/29269104/27267960-7a16b23a-54d6-11e7-862b-d02e72a1d5eb.png)
 ___
 # Features #
 * Material Design
